@@ -1,0 +1,344 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\dchef.io\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/
+File Name: C:\Downloaded Web Sites\dchef.io\index.htm
+Content Type: text/html
+
+Uri: https://dchef.io/comments/feed/
+File Name: C:\Downloaded Web Sites\dchef.io\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dchef.io/feed/
+File Name: C:\Downloaded Web Sites\dchef.io\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dchef.io/terms-condition/
+File Name: C:\Downloaded Web Sites\dchef.io\terms-condition\index.htm
+Content Type: text/html
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/aos/aos.css
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\aos\aos.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/aos/aos.js
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\aos\aos.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/css/all.css
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\css\all.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/css/jquery.mmenu.css
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\css\jquery.mmenu.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/css/slick-theme.css
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/css/style.css
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\css\style.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/font/arial/ARIAL.TTF
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\font\arial\ARIAL.TTF
+Content Type: application/octet-stream
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/font/arial/ArialMdm.ttf
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\font\arial\ArialMdm.ttf
+Content Type: application/octet-stream
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/font/arial/ARIBLK.TTF
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\font\arial\ARIBLK.TTF
+Content Type: application/octet-stream
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/ChainMrkt.svg
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\ChainMrkt.svg
+Content Type: image/svg+xml
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/footerbg.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\footerbg.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/home-sec2.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\home-sec2.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/homebanner1.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\homebanner1.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/sec-4-bg.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\sec-4-bg.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/sec-5bg.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\sec-5bg.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/sec3-bg.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\sec3-bg.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/sec3.gif
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\sec3.gif
+Content Type: image/gif
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/social1.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\social1.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/social2.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\social2.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/social3.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\social3.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/social4.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\social4.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/social5.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\social5.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/social6.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\social6.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/social7.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\social7.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/tg-icon.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\tg-icon.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/image/x-iocn.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\image\x-iocn.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/js/app.js
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/js/jquery-3.2.1.slim.min.js
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\js\jquery-3.2.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/js/jquery.mmenu.min.js
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\js\jquery.mmenu.min.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/menu/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\menu\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/menu/nav.css
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\menu\nav.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/menu/nav.js
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\menu\nav.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://dchef.io/wp-content/themes/d-chef/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://dchef.io/wp-content/themes/d-chef/js/navigation.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\js\navigation.js
+Content Type: application/javascript
+
+Uri: https://dchef.io/wp-content/themes/d-chef/style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\themes\d-chef\style.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/Arrow-GIF-DCHEF-SITE.gif
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\Arrow-GIF-DCHEF-SITE.gif
+Content Type: image/gif
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/CH_3500x3500-1-1.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\CH_3500x3500-1-1.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/cropped-DCHEF_head-w-cigarette-e1727927482947-180x180.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\cropped-DCHEF_head-w-cigarette-e1727927482947-180x180.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/cropped-DCHEF_head-w-cigarette-e1727927482947-192x192.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\cropped-DCHEF_head-w-cigarette-e1727927482947-192x192.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/cropped-DCHEF_head-w-cigarette-e1727927482947-32x32.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\cropped-DCHEF_head-w-cigarette-e1727927482947-32x32.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/DChef-full-body-1.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\DChef-full-body-1.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/DCHEF_bag-of-coins_05.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\DCHEF_bag-of-coins_05.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/DChef_eggs_fries_tokens_02.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\DChef_eggs_fries_tokens_02.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/DCHEF_head-w-cigarette-e1727927482947.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\DCHEF_head-w-cigarette-e1727927482947.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/DCHEF_TOKEN_02_recolor.gif
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\DCHEF_TOKEN_02_recolor.gif
+Content Type: image/gif
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/egg.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\egg.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/salt-bae-1.gif
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\salt-bae-1.gif
+Content Type: image/gif
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/Screen_Shot_2024-09-04_at_7.34.29_PM-removebg-preview-1.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\Screen_Shot_2024-09-04_at_7.34.29_PM-removebg-preview-1.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/Token.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\Token.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/utensils-letters_400x200-1-1.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\utensils-letters_400x200-1-1.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/utensils-letters_400x200-1.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\utensils-letters_400x200-1.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/Vector6.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\Vector6.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/Vector7.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\Vector7.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/09/Vector9.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\09\Vector9.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/10/02.-ben-affleck_3500x3500-1.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\10\02.-ben-affleck_3500x3500-1.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/10/TG_belissimo_03-removebg-preview.png
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\10\TG_belissimo_03-removebg-preview.png
+Content Type: image/png
+
+Uri: https://dchef.io/wp-content/uploads/2024/12/CoinStoreLogo-10Dec.jpg
+File Name: C:\Downloaded Web Sites\dchef.io\wp-content\uploads\2024\12\CoinStoreLogo-10Dec.jpg
+Content Type: image/jpeg
+
+Uri: https://dchef.io/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1
+File Name: C:\Downloaded Web Sites\dchef.io\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://dchef.io/wp-json/
+File Name: C:\Downloaded Web Sites\dchef.io\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dchef.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdchef.io%2F
+File Name: C:\Downloaded Web Sites\dchef.io\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dchef.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdchef.io%2F&format=xml
+File Name: C:\Downloaded Web Sites\dchef.io\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dchef.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdchef.io%2Fterms-condition%2F
+File Name: C:\Downloaded Web Sites\dchef.io\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://dchef.io/wp-json/oembed/1.0/embed?url=https:%2F%2Fdchef.io%2Fterms-condition%2F&format=xml
+File Name: C:\Downloaded Web Sites\dchef.io\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://dchef.io/wp-json/wp/v2/pages/102
+File Name: C:\Downloaded Web Sites\dchef.io\wp-json\wp\v2\pages\102
+Content Type: application/json
+
+Uri: https://dchef.io/wp-json/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\dchef.io\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: https://p.typekit.net/p.css?s=1&k=fki7djr&ht=tk&f=43136&a=107241877&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\dchef.io\p.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/af/9816df/00000000000000007753c393/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\dchef.io\af\9816df\00000000000000007753c393\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/9816df/00000000000000007753c393/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\dchef.io\af\9816df\00000000000000007753c393\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/9816df/00000000000000007753c393/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\dchef.io\af\9816df\00000000000000007753c393\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/fki7djr.css
+File Name: C:\Downloaded Web Sites\dchef.io\fki7djr.css
+Content Type: text/css
+
